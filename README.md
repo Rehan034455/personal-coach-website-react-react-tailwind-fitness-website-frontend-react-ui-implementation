@@ -31,7 +31,7 @@ This project is a **demo implementation inspired by real client work**.
 Client-specific branding and assets have been adjusted or replaced to respect confidentiality.
 
 ## 📷 Screenshots
-(Add screenshots here)
+HannahRivera.png
 
 ## 🚀 Getting Started
 ```bash
